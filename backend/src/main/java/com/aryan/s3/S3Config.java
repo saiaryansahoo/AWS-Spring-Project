@@ -24,5 +24,4 @@ public class S3Config {
                 .region(Region.of(awsRegion))
                 .build();
     }
-
 }
